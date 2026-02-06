@@ -26,6 +26,15 @@ Ele resolve automaticamente os principais problemas:
 - Gera o script `iniciarPjeCalc.sh` personalizado.
 - Cria o arquivo `.desktop` para integração com o menu do sistema.
 
+## 📖 Instalação Manual e Detalhes Técnicos
+
+Se você prefere entender o que está acontecendo ou configurar manualmente, criamos um guia passo a passo detalhando:
+- Como isolar o Java 8 (para não interferir no sistema).
+- Argumentos de inicialização do PJeCalc.
+- Como criar o atalho manualmente.
+
+👉 **[Leia o Manual de Instalação (MANUAL.md)](MANUAL.md)**
+
 ## Requisitos
 - Acesso à internet (para baixar o Java na primeira vez).
 - Senha de superusuário (sudo) para instalar dependências se faltarem.
