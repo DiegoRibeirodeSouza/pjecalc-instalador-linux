@@ -117,7 +117,7 @@ Section: utils
 Priority: optional
 Architecture: $ARCH
 Depends: zenity, xdg-utils
-Maintainer: Unofficial Installer <installer@pjecalc.local>
+Maintainer: Diego Ribeiro de Souza <diego@pjecalc.local>
 Description: PJeCalc Cidadão (Offline)
  O PJe-Calc Cidadão é uma aplicação desktop para a elaboração de cálculos
  trabalhistas. Esta versão empacota a aplicação oficial do TRT.
