@@ -9,6 +9,15 @@ Ele resolve automaticamente os principais problemas:
 
 ## 📦 Como Usar
 
+### Opção 1: Pacote .deb (Recomendado)
+Baixe a versão mais recente na aba [Releases](https://github.com/DiegoRibeirodeSouza/pjecalc-instalador-linux/releases) e instale com:
+
+```bash
+sudo dpkg -i pjecalc_2.15.1-8_amd64.deb
+```
+*(Se houver erro de dependências, rode `sudo apt-get install -f`)*
+
+### Opção 2: Script de Instalação (Método Antigo)
 1. Baixe o PJeCalc (Windows) oficial do site do TRT.
 2. Baixe/Clone este repositório **dentro** da pasta do PJeCalc.
    *(Ou copie todos os arquivos deste repositório para dentro da pasta do PJeCalc)*
