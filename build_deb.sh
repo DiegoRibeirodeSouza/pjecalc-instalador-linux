@@ -11,7 +11,7 @@ if [ ! -f "bin/pjecalc.jar" ]; then
 fi
 
 PACKAGE_NAME="pjecalc"
-VERSION="2.15.1"
+VERSION="2.16.0"
 ARCH="amd64"
 DEB_DIR="${PACKAGE_NAME}_${VERSION}-8_${ARCH}"
 

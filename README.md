@@ -13,7 +13,7 @@ Ele resolve automaticamente os principais problemas:
 Baixe a versão mais recente na aba [Releases](https://github.com/DiegoRibeirodeSouza/pjecalc-instalador-linux/releases) e instale com:
 
 ```bash
-sudo dpkg -i pjecalc_2.15.1-8_amd64.deb
+sudo dpkg -i pjecalc_2.16.0-8_amd64.deb
 ```
 *(Se houver erro de dependências, rode `sudo apt-get install -f`)*
 
